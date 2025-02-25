@@ -1,0 +1,13 @@
+
+div.quadrado1{
+    width: 60px;
+    height:unset;
+    border: 3px solid;
+    border-color: red;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-align: center;
+}
